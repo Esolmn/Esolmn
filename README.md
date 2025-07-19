@@ -1,4 +1,4 @@
-## Sup! 👋
+<h1 align="center">🚀Hello, I'm Erik</h1>
 
 <!--
 **Esolmn/Esolmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Dart and Python
 - 🏫 I’m a student from Central Luzon State University
 - ⚡ Fun fact: I'm always tired
-<h2> 🚀 &nbsp;&nbsp;Tools I use</h2>
+<h2> 🛠️ &nbsp;&nbsp;Tools I use</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45" margin-left: 5px/>
