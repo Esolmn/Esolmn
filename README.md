@@ -1,5 +1,3 @@
-<h1 align="center">🚀Hello, I'm Erik</h1>
-
 <!--
 **Esolmn/Esolmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,19 +9,29 @@ Here are some ideas to get you started:
 </a>
 <p>&nbsp;&nbsp;</p>
 
+<h1 align="left">🚀Hi, I'm Erik</h1>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Student-blue?style=for-the-badge" alt="Student" style="margin-right: 10px;"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Goal-Full%20Stack%20Developer-green?style=for-the-badge" alt="Aspiring Full Stack Developer"/>
+  
+</p>
+
+
 - 🧑‍🦰 I'm Erik Soliman
-- 🌱 I’m currently learning Dart and Python
-- 🏫 I’m a student from Central Luzon State University
+- 🌱 I'm currently learning Dart and Python
+- 🏫 I'm a student from Central Luzon State University
 - ⚡ Fun fact: I'm always tired
 <h2> 🛠️ &nbsp;&nbsp;Tools I use</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45" margin-left: 5px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" margin-left: 5px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" alt="dart" width="45" height="45" margin-left: 5px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" margin-left: 5px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="45" height="45" margin-left: 5px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45" margin-left: 5px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45" style="margin-left: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="margin-left: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" alt="dart" width="45" height="45" style="margin-left: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" style="margin-left: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="45" height="45" style="margin-left: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45" style="margin-left: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" margin-left: 5px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45" margin-left: 5px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="45" height="45" margin-left: 5px/>
