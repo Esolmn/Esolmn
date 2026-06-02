@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 </a>
 <p>&nbsp;&nbsp;</p>
 
-<h1 align="left">🚀Hi, I'm Erik</h1>
+<h1 align="left">Erik Soliman</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Student-blue?style=for-the-badge" alt="Student" style="margin-right: 10px;"/>
