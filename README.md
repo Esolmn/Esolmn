@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 </p>
 
 
-- 🧑‍🦰 I'm Erik Soliman
-- 🌱 I'm currently learning Dart and Python
-- 🏫 I'm a student from Central Luzon State University
+- I'm Erik Soliman
+- I'm currently learning React
+- I'm a student from Central Luzon State University
 <h2> 🛠️ &nbsp;&nbsp;Tools I use</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/>
