@@ -44,26 +44,9 @@ A web-based system that monitors real-time soil conditions through IoT sensors a
 - Designed interfaces for real-time soil monitoring and fertilizer recommendations
 - Collaborated with the team to develop and integrate the system's features
 
-**Role:** Frontend Developer & Scrum Master
+**Role:** Frontend Developer, UI/UX Designer, and Scrum Master
 
 ---
-
-### 📊 GitHub Activity
-
-Explore my repositories and contributions on my [GitHub profile](https://github.com/Esolmn).
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Esolmn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/e_solmn/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
 
 <p align="center">
   <i>Designing experiences. Building solutions.</i>
