@@ -3,18 +3,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/e_solmn/">
-    <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated coding banner"/>
+    <img
+      src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+      width="100%"
+      height="150"
+      alt="Animated coding banner"
+    />
   </a>
-</p>
-
-<h1 align="center">Hi, I'm Erik Soliman 👋</h1>
-
-<h3 align="center">UI/UX Designer | Frontend Developer | BSIT Student</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-4th%20Year%20IT%20Student-blue?style=flat-square" alt="Student"/>
-  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Frontend-8B7500?style=flat-square" alt="UI/UX and Frontend"/>
-  <img src="https://img.shields.io/badge/Open%20To-Internship-success?style=flat-square" alt="Open to Internship"/>
 </p>
 
 ---
