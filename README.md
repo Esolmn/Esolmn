@@ -30,7 +30,7 @@
 |---|---|
 | **Design & Tools** | Figma · Canva · Framer · Adobe Photoshop · VS Code · Git · GitHub · WordPress |
 | **Frontend** | React · JavaScript · HTML · CSS · Tailwind CSS · Bootstrap · shadcn/ui · Lucide React |
-| **Backend & Database** | Python · Django · PHP · Laravel · MySQL |
+| **Backend & Database** | Python · Django · PHP · Laravel · MySQL · PostgreSQL  |
 
 ---
 
